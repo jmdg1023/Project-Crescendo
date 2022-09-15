@@ -10,7 +10,7 @@
 
 🔸 GitHub Repository [link](https://github.com/jmdg1023/Project-Crescendo)
 
-🔸 Site is live [HERE](https://jmdg1023.github.io/Project-Crescendo//)
+🔸 Site is live [HERE](https://jmdg1023.github.io/Project-Crescendo)
 
 ## Installation ✅
 
